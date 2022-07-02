@@ -1,11 +1,3 @@
-/*
- *
- * File Author: Chinedu Okafor
- *
- */
-
-
-
 #include <stdlib.h>
 
 #include <time.h>
@@ -15,7 +7,6 @@
 
 
 /**
- *
  * main - Checks and outputs whether random no is positive, negative, or zero
  *
  * Return: Always 0 (Success)

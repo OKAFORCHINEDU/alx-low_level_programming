@@ -5,7 +5,7 @@
  * on the computer it is compiled and run on.
  *
  *
- * Return 0
+ * Return: Always 0.
  *
  */
 

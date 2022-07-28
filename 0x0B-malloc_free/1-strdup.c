@@ -15,7 +15,6 @@
 char *_strdup(char *str)
 
 {
-
 	char *strnew = NULL;
 	unsigned int i;
 	int n;
@@ -30,10 +29,11 @@ char *_strdup(char *str)
 		for (i = 0; str[i] != '\0'; i++)
 			strnew[i] = str[i];
 	}
-       	else
+	else
 	{
 		return (NULL);
 	}
 	strnew[i] = '\0';
+
 	return (strnew);
 }

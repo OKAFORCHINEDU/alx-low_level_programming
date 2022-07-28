@@ -2,7 +2,7 @@
  * File: main.h
  * Auth: Chinedu Okafor
  * Desc: Header file containing prototypes for all functions
- *		 used in the 0x0A-malloc_free directory.
+ *		 used in the 0x0B-malloc_free directory.
  *
  */
 
